@@ -2,7 +2,7 @@
 
 ### This would be a complete log of all the tech stuff i am learning during this period.
 
-#### Been learning react from past week so this would me mainly focused on React and related technologies.
+#### Been learning react from past week so this would be mainly focused on React and related technologies.
 
 ### Day 1: September 07, 2018
 |Stuff which I learned today|To-DO|
