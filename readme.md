@@ -36,4 +36,19 @@
 <td>Try to code components from start to finish. Understand css key-frames.</td>
 </tr>
 </tbody>
+</table><h3 id="day-3-september-09-2018">Day 3: September 09, 2018</h3>
+
+<table>
+<thead>
+<tr>
+<th>Stuff which I learned today</th>
+<th>To-DO</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Decided what to do in react/planning. Would be making a weather app. Learned some Data Structures topics</td>
+<td>Get the work with Weather app started</td>
+</tr>
+</tbody>
 </table>
