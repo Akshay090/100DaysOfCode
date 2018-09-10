@@ -51,4 +51,19 @@
 <td>Get the work with Weather app started</td>
 </tr>
 </tbody>
+</table><h3 id="day-4-september-10-2018">Day 4: September 10, 2018</h3>
+
+<table>
+<thead>
+<tr>
+<th>Stuff which I learned today</th>
+<th>To-DO</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>worked on weather app still figuring things up</td>
+<td>Understand Higher order components from robin’s blog along with recompose.</td>
+</tr>
+</tbody>
 </table>
